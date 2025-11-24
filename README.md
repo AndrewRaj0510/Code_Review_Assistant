@@ -50,6 +50,8 @@ Code_Review_Assistant/
 3. Install dependencies(refer requirements.txt)
 4. Start the FastAPI server:
     ```bash
+    venv\Scripts\activate
+    cd backend
     uvicorn main:app --reload
     ```
 5. Start the development server:
