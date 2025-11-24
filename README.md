@@ -72,3 +72,8 @@ Code_Review_Assistant/
     Suggestions
     Possible improvements
 6. The result is displayed in a clean UI panel with proper formatting.
+
+## Snippets
+<img width="1919" height="866" alt="Screenshot 2025-11-24 121126" src="https://github.com/user-attachments/assets/66747be0-f1e8-4f45-8b64-663aa8e2f765" />
+<img width="1919" height="866" alt="Screenshot 2025-11-24 121909" src="https://github.com/user-attachments/assets/157d0e71-7466-4110-b562-6fbbfd89777d" />
+<img width="1919" height="866" alt="Screenshot 2025-11-24 121958" src="https://github.com/user-attachments/assets/5fc4cca8-46f4-40d8-91cf-5b98b033e281" />
