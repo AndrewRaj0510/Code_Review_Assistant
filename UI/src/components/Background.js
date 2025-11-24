@@ -1,9 +1,8 @@
 "use client";
 
-export default function Background({ children }) {
+export default function Background() {
   return (
-    <div className="min-h-screen w-full bg-gradient-to-b from-white to-gray-100 dark:from-black dark:to-gray-900 transition-all duration-300">
-      {children}
+    <div className="fixed inset-0 -z-10 w-full h-full bg-gradient-to-br from-white via-white to-gray-400 dark:from-black dark:via-gray-900 dark:to-gray-800">
     </div>
   );
 }
