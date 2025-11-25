@@ -13,24 +13,8 @@ A modern full stack web application that analyzes and reviews code using **LLMs*
 
 ## Tech Stack
 - **Frontend:** Next.js, React, Tailwind CSS, Framer Motion (animations), Lucide Icons, ShadCN UI Components, Syntax Highlighter for code display, Dark & Light mode support.
-- **Backend:** FastAPI (Python backend), LM Studio / Local LLM Integration, OpenAI API Compatible Interface, Custom /review endpoint for code review, Environment variable support via(.env).
+- **Backend:** FastAPI (Python backend), LM Studio/Local LLM Integration, OpenAI API Compatible Interface, Custom /review endpoint for code review, Environment variable support via(.env).
 - **Tools:** Git & GitHub, Node.js, Python 3.10+, LM Studio, VS Code
-
-Code_Review_Assistant/
-│
-├── backend/
-│   ├── main.py
-│   ├── requirements.txt
-│   ├── .env
-│   ├── review_engine.py
-│   └── utils/
-└── UI/
-    ├── src/
-    │   ├── app/
-    │   ├── components/
-    ├── package.json
-    ├── tailwind.config.js
-    ├── next.config.js
 
 ## Getting Started
 
